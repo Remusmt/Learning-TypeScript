@@ -1,0 +1,8 @@
+E:\repos\Computer Science\data-structures\DataStructures\bin\Debug\netstandard2.0\DataStructures.deps.json
+E:\repos\Computer Science\data-structures\DataStructures\bin\Debug\netstandard2.0\DataStructures.dll
+E:\repos\Computer Science\data-structures\DataStructures\bin\Debug\netstandard2.0\DataStructures.pdb
+E:\repos\Computer Science\data-structures\DataStructures\obj\Debug\netstandard2.0\DataStructures.csprojAssemblyReference.cache
+E:\repos\Computer Science\data-structures\DataStructures\obj\Debug\netstandard2.0\DataStructures.AssemblyInfoInputs.cache
+E:\repos\Computer Science\data-structures\DataStructures\obj\Debug\netstandard2.0\DataStructures.AssemblyInfo.cs
+E:\repos\Computer Science\data-structures\DataStructures\obj\Debug\netstandard2.0\DataStructures.dll
+E:\repos\Computer Science\data-structures\DataStructures\obj\Debug\netstandard2.0\DataStructures.pdb

@@ -1,0 +1,14 @@
+E:\repos\Computer Science\data-structures\VisualTests\bin\Debug\netcoreapp3.1\VisualTests.exe
+E:\repos\Computer Science\data-structures\VisualTests\bin\Debug\netcoreapp3.1\VisualTests.deps.json
+E:\repos\Computer Science\data-structures\VisualTests\bin\Debug\netcoreapp3.1\VisualTests.runtimeconfig.json
+E:\repos\Computer Science\data-structures\VisualTests\bin\Debug\netcoreapp3.1\VisualTests.runtimeconfig.dev.json
+E:\repos\Computer Science\data-structures\VisualTests\bin\Debug\netcoreapp3.1\VisualTests.dll
+E:\repos\Computer Science\data-structures\VisualTests\bin\Debug\netcoreapp3.1\VisualTests.pdb
+E:\repos\Computer Science\data-structures\VisualTests\bin\Debug\netcoreapp3.1\DataStructures.dll
+E:\repos\Computer Science\data-structures\VisualTests\bin\Debug\netcoreapp3.1\DataStructures.pdb
+E:\repos\Computer Science\data-structures\VisualTests\obj\Debug\netcoreapp3.1\VisualTests.csprojAssemblyReference.cache
+E:\repos\Computer Science\data-structures\VisualTests\obj\Debug\netcoreapp3.1\VisualTests.AssemblyInfoInputs.cache
+E:\repos\Computer Science\data-structures\VisualTests\obj\Debug\netcoreapp3.1\VisualTests.AssemblyInfo.cs
+E:\repos\Computer Science\data-structures\VisualTests\obj\Debug\netcoreapp3.1\VisualTests.csproj.CopyComplete
+E:\repos\Computer Science\data-structures\VisualTests\obj\Debug\netcoreapp3.1\VisualTests.dll
+E:\repos\Computer Science\data-structures\VisualTests\obj\Debug\netcoreapp3.1\VisualTests.pdb
