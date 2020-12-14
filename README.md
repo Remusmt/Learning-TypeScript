@@ -1,2 +1,2 @@
-# Learning-TypeScript
-Learning typescript
+# Learning data structures and algorithms 
+Using C#
